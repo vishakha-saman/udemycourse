@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 different content in the same file name file3.txt
+=======
+
